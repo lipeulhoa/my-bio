@@ -1,0 +1,28 @@
+body {
+background-color: rgb(0, 0, 0);
+color: yellow;
+font-family: Arial, Helvetica, sans-serif, georgia;
+font-size: larger;
+}
+.primary-heading {
+color: lightblue;
+}
+.interaction-design-program {
+    color: pink;
+}
+.interaction-design-program-paragraph {
+    color: blue;
+    font-style: italic;
+    font-size: 1.0em;
+}
+.highlight {
+    background: yellow;
+    color: blueviolet;
+}
+.center-this {
+    text-align: center;
+}
+.portfolio {
+    background: pink;
+    font-weight: 700;
+}
